@@ -37,4 +37,3 @@ The Gemini API by Google provides advanced AI features, including text generatio
 
 ---
 
-
