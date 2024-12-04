@@ -22,6 +22,7 @@ The Gemini API by Google provides advanced AI features, including text generatio
 4. Click **Generate API Key**.
 5. Copy the API key and securely store it (e.g., use environment variables).
 
+
 ## Create a Google Cloud Project
 
 1. Visit the [Google Cloud Console](https://console.cloud.google.com/).
