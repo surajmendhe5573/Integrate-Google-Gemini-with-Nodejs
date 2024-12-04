@@ -35,5 +35,8 @@ The Gemini API by Google provides advanced AI features, including text generatio
    - Go to **APIs & Services** > **Credentials**.
    - Associate your API key with the Gemini API.
 
----
 
+## Additional Documentation
+
+For a detailed guide, visit the complete documentation at:  
+[Google Doc Link](https://docs.google.com/document/d/1rL9gCCu6Aj94cHpRm5WKb-PDx05V_DS00kVfxrUGQEo/edit?tab=t.0)
