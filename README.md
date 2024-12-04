@@ -2,17 +2,11 @@
 
 This repository demonstrates how to integrate Node.js with the Gemini API for text generation. It includes instructions on obtaining an API key, creating a Google Cloud project, and making API calls.
 
----
-
-
-
----
 
 ## Overview
 
 The Gemini API by Google provides advanced AI features, including text generation. This guide will help you set up and integrate the API in your Node.js application.
 
----
 
 ## Prerequisites
 
