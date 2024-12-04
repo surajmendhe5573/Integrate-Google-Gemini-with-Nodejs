@@ -14,8 +14,6 @@ The Gemini API by Google provides advanced AI features, including text generatio
 - Node.js installed on your system (v14 or later recommended).
 - `npm` or `yarn` for dependency management.
 
----
-
 ## Get the Gemini API Key
 
 1. Go to the [Google AI Studio](https://aistudio.google.com/).
@@ -23,8 +21,6 @@ The Gemini API by Google provides advanced AI features, including text generatio
 3. Navigate to the **API Key Management** section.
 4. Click **Generate API Key**.
 5. Copy the API key and securely store it (e.g., use environment variables).
-
----
 
 ## Create a Google Cloud Project
 
